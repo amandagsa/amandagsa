@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- Beginner back-end developer;
-- Studying ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white);
+- Beginner back-end developer; ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white);
 - Cat lover; :cat2:
 
 ------------
