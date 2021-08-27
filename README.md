@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - Beginner back-end developer;      
-- Studying Java;
+- Studying Java and Angular;
 
 ------------
 
