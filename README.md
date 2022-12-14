@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ------------
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/seugithub)](https://github.com/amandagsa) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seulinkedin/)](https://www.linkedin.com/in/amandagsalves) [![Gmail Badge](https://img.shields.io/badge/-amandagsal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amandagsal@gmail.com)](mailto:amandagsal@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/seugithub)](https://github.com/amandagsa) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandagsalves/)](https://www.linkedin.com/in/amandagsalves) [![Gmail Badge](https://img.shields.io/badge/-amandagsal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amandagsal@gmail.com)](mailto:amandagsal@gmail.com)
