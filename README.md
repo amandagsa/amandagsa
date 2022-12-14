@@ -1,4 +1,4 @@
-### Hi, I am Amanda 👋
+### Hi, I'm Amanda 👋
 
 <!--
 **amandagsa/amandagsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - Junior developer;      
-- Studying Java, Javascript and Angular;
+- Learning Java, Javascript and Angular;
 
 ------------
 
