@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-- Junior developer;      
-- Learning Java, Javascript and Angular;
+- Backend developer;      
+- Java and Angular;
 
 ------------
 
